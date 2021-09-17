@@ -32,7 +32,7 @@ expd$BMI=expd$Weight/((expd$Height/100)*(expd$Height/100))
 #Raw survey data
 #######################
 
-surveyd=import("Data/Survey data/Survey data.xlsx")
+surveyd=import("Data/Survey data/Survey data.csv")
 
 
 #Recoding - TSC - items 2, 3, 4, 5, 7, 9 ,10 ,12 and 13 need to be reverse coded
